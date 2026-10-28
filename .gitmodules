@@ -1,3 +1,7 @@
+[submodule "cosmic-epoch"]
+    path = cosmic-epoch
+    url = https://github.com/pop-os/cosmic-epoch
+    branch = master
 [submodule "cosmic-session"]
     path = cosmic-session
     url = https://github.com/pop-os/cosmic-session
